@@ -3,7 +3,8 @@ The Weather App is a fully responsive, modern web application built using React 
 
 Live:https://weather-app-r7yv.vercel.app/
 
-<img width="1911" height="915" alt="weather" src="https://github.com/user-attachments/assets/e4bc40cc-c8fd-4119-9df2-82c9b86c9146" />
+
+![weather (1)](https://github.com/user-attachments/assets/ceadff85-5518-4dd9-82cf-1dca455249b6)
 
 
 🚀 Features
